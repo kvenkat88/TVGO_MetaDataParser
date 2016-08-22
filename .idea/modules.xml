@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CloudTV_Metaparser/.idea/CloudTV_Metaparser.iml" filepath="$PROJECT_DIR$/../CloudTV_Metaparser/.idea/CloudTV_Metaparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Fourier_Scripts/fourier-automation/.idea/FourierAutomation.iml" filepath="$PROJECT_DIR$/../../../Fourier_Scripts/fourier-automation/.idea/FourierAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StreamParser.iml" filepath="$PROJECT_DIR$/.idea/StreamParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../AlternateContentQA_Portal/acqa-portal-master/.idea/acqa-portal.iml" filepath="$PROJECT_DIR$/../../../AlternateContentQA_Portal/acqa-portal-master/.idea/acqa-portal.iml" />
+    </modules>
+  </component>
+</project>

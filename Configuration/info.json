@@ -1,5 +1,5 @@
 {
-  "android_feed" : "http://tvgo.xfinity.com/xtvapi/tve/android/streams2",
-  "ios_feed" :"http://tvgo.xfinity.com/xtvapi/tve/ios/streams",
-  "desktop_feed" : "http://tvgo.xfinity.com/xtvapi/tve/web/streams"
+  "android_feed" : "http://tvgo11.xfi111nity.com/xt1vapi/tve/android/streams2",
+  "ios_feed" :"http://tvgo11.xf11inity.com/xt1vapi/tve/ios/streams",
+  "desktop_feed" : "http://tvgo11.xf11inity.com/xt1vapi/tve/web/streams"
 }
